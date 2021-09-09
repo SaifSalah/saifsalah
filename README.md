@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaifSalah
-- 👀 I’m interested in web | software deveopment and Infosec  
+- 👀 I’m interested in web | software development and Infosec  
 - 🌱 I’m currently learning Golang <3 
 - 📫 How to reach me https://twitter.com/6675636b6f6666
 
